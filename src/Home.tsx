@@ -557,10 +557,10 @@ const Home = (props: HomeProps) => {
         <main>
             <MainContainer>
                 <WalletContainer>
-                    <Logo><a href="http://prisonworlds.com/" target="_blank" rel="noopener noreferrer"><img alt=""
+                    <Logo><a href="" target="_blank" rel="noopener noreferrer"><img alt=""
                                                                                                           src="logo.png"/></a></Logo>
                     <Menu>
-                        <li><a href="http://prisonworlds.com/" target="_blank" rel="noopener noreferrer">HOME</a>
+                        <li><a href="" target="_blank" rel="noopener noreferrer">HOME</a>
                         </li>
                         <li><a href="/" target="_blank"
                                rel="noopener noreferrer">STAKING</a></li>
@@ -681,13 +681,13 @@ const Home = (props: HomeProps) => {
                     <DesContainer>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>SOCIAL MEDIA</GoldTitle></LogoAligner>
-                            <ParaL href="//twitter.com/PrisonWorldsNFT" target="_blank" rel="noopener noreferrer"><FaTwitter /> Twitter</ParaL>
+                            <ParaL href="" target="_blank" rel="noopener noreferrer"><FaTwitter /> Twitter</ParaL>
                             <br/>
                             <br/>
-                            <ParaL href="//twitter.com/PrisonWorldsNFT" target="_blank" rel="noopener noreferrer"><FaDiscord/> Discord</ParaL>
+                            <ParaL href="" target="_blank" rel="noopener noreferrer"><FaDiscord/> Discord</ParaL>
                             <br/>
                             <br/>
-                            <ParaL href="//twitter.com/PrisonWorldsNFT" target="_blank" rel="noopener noreferrer"><FaInstagram/> Instagram</ParaL>
+                            <ParaL href="" target="_blank" rel="noopener noreferrer"><FaInstagram/> Instagram</ParaL>
                         </Des>
                     </DesContainer>
                 </MintContainer>
